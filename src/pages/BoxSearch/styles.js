@@ -14,7 +14,7 @@ export const Container = styled.section`
    margin-top: -40px;
    padding: 0px 10px;
 
-   @media ${device.mobile}{
+   @media ${device.tablet}{
       width: 98%;
    }
 `;
@@ -31,6 +31,7 @@ export const ContentLeft = styled.div`
    width: 60%;
    height: 100%;
    display: flex;
+   
 
    .bottom-click{
       border-bottom: 3px solid var(--color-red-default);
@@ -78,8 +79,9 @@ export const ContentLeft = styled.div`
       padding-left: 20px;
    }
 
-   @media ${device.mobile}{
+   @media ${device.tablet}{
       width: 100%;
+      justify-content: center;
    }
 `
 
@@ -112,7 +114,7 @@ export const ContentBoxSearch = styled.div`
    display: flex;
    flex-direction: column;
 
-   @media ${device.mobile}{
+   @media ${device.tablet}{
       padding: 10px 10px;
    }
 `
@@ -209,7 +211,7 @@ export const BoxSelect = styled.div`
       width: 100%;
    }
 
-   @media ${device.mobile}{
+   @media ${device.tablet}{
       width: 100%;
    }
 `

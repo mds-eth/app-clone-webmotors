@@ -98,8 +98,10 @@ function BoxSearch() {
 
       if (response.length > 0) {
          setVersions(response);
-         document.getElementById('select-year').disabled = false;
          document.getElementById('select-version').disabled = false;
+         const fieldYear = document.getElementById('select-year')
+         if (fieldYear !== null) fieldYear.disabled = false;
+
       }
    }
 
@@ -133,7 +135,7 @@ function BoxSearch() {
                   </div>
                </div>
             </ContentLeft>
-            {window.innerWidth > 500 && (
+            {window.innerWidth > 800 && (
                <ContentRight>
                   <ButtonVender>Vender meu carro</ButtonVender>
                </ContentRight>
@@ -147,7 +149,7 @@ function BoxSearch() {
                <label htmlFor="usados">Usados</label>
             </RowCheck>
             <ContentFilter>
-               {window.innerWidth > 500 && (
+               {window.innerWidth > 800 && (
                   <InputLocation>
                      <div>
                         <img src="/images/icon-maps.png" loading="lazy" alt="Icone pino Google Maps" />
@@ -164,7 +166,7 @@ function BoxSearch() {
                </BoxSelect>
             </ContentFilter>
             <ContentFilter>
-               {window.innerWidth > 500 && (
+               {window.innerWidth > 800 && (
                   <BoxSelect>
                      <Select disabled value={yearSelected} id="select-year" name="select-year" label="Ano Desejado" onChange={(e) => setYearSelected(e.target.value)} options={years} />
                      <Select disabled value={modelSelected} id="select-models" name="select-models" label="Faixa de Preço" onChange={handleChangeModel} options={models} />
@@ -180,7 +182,7 @@ function BoxSearch() {
                   <label>Busca Avançada</label>
                </div>
                <div className="content-search">
-                  {window.innerWidth > 500 && <p>Limpar Filtros</p>}
+                  {window.innerWidth > 800 && <p>Limpar Filtros</p>}
                   <button>VER OFERTAS</button>
                </div>
             </ContentFooterBox>

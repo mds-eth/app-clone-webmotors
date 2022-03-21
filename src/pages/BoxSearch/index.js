@@ -169,7 +169,7 @@ function BoxSearch() {
                {window.innerWidth > 800 && (
                   <BoxSelect>
                      <Select disabled value={yearSelected} id="select-year" name="select-year" label="Ano Desejado" onChange={(e) => setYearSelected(e.target.value)} options={years} />
-                     <Select disabled value={modelSelected} id="select-models" name="select-models" label="Faixa de Preço" onChange={handleChangeModel} options={models} />
+                     <Select disabled  id="select-models" name="select-models" label="Faixa de Preço" onChange={handleChangeModel} options={models} />
                   </BoxSelect>
                )}
                <BoxSelect>

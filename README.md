@@ -1,3 +1,3 @@
 # Clone UI WebMotors
 
-<img src="./images/clone-webmotors.png">
+[<img alt="alt_text" width="40px" src="images/clone-webmotors.png" />]

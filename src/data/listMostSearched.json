@@ -1,0 +1,62 @@
+[
+   {
+      "url": "https://www.webmotors.com.br/img/bestseller/honda-civic.jpg?t=1.0.0",
+      "alt": "Imagem de fundo honda Civic",
+      "label": "HONDA CIVIC",
+      "link": "https://www.webmotors.com.br/carros/estoque/honda/civic?estadocidade=estoque&marca1=HONDA&modelo1=CIVIC&idcmpint=t1:c17:m07:carros-mais-buscados:posicao-1::HONDA-CIVIC"
+   },
+   {
+      "url": "https://www.webmotors.com.br/img/bestseller/toyota-corolla.jpg?t=1.0.0",
+      "alt": "imagem de fundo Toyota Corolla",
+      "label": "TOYOTA COROLLA",
+      "link": "https://www.webmotors.com.br/carros/estoque/toyota/corolla?estadocidade=estoque&marca1=TOYOTA&modelo1=COROLLA&idcmpint=t1:c17:m07:carros-mais-buscados:posicao-2::TOYOTA-COROLLA"
+   },
+   {
+      "url": "https://www.webmotors.com.br/img/bestseller/honda-fit.jpg?t=1.0.0",
+      "alt": "Imagem de fundo honda Fit",
+      "label": "HONDA FIT",
+      "link": "https://www.webmotors.com.br/carros/estoque/honda/fit?estadocidade=estoque&marca1=HONDA&modelo1=FIT&idcmpint=t1:c17:m07:carros-mais-buscados:posicao-3::HONDA-FIT"
+   },
+   {
+      "url": "https://www.webmotors.com.br/img/bestseller/volkswagen-gol.jpg?t=1.0.0",
+      "alt": "Imagem de fundo Volkswagen Gol",
+      "label": "VOLKSWAGEN GOL",
+      "link": "https://www.webmotors.com.br/carros/estoque/volkswagen/gol?estadocidade=estoque&marca1=VOLKSWAGEN&modelo1=GOL&idcmpint=t1:c17:m07:carros-mais-buscados:posicao-4::VOLKSWAGEN-GOL"
+   },
+   {
+      "url": "https://www.webmotors.com.br/img/bestseller/volkswagen-golf.jpg?t=1.0.0",
+      "alt": "Imagem de fundo Volkswagen Golf",
+      "label": "VOLKSWAGEN GOLF",
+      "link": "https://www.webmotors.com.br/carros/estoque/volkswagen/golf?estadocidade=estoque&marca1=VOLKSWAGEN&modelo1=GOLF&idcmpint=t1:c17:m07:carros-mais-buscados:posicao-5::VOLKSWAGEN-GOLF"
+   },
+   {
+      "url": "https://www.webmotors.com.br/img/bestseller/volkswagen-jetta.jpg?t=1.0.0",
+      "alt": "Imagem de fundo Volkswagen Jetta",
+      "label": "VOLKSWAGEN JETTA",
+      "link": "https://www.webmotors.com.br/carros/estoque/volkswagen/jetta?estadocidade=estoque&marca1=VOLKSWAGEN&modelo1=JETTA&idcmpint=t1:c17:m07:carros-mais-buscados:posicao-6::VOLKSWAGEN-JETTA"
+   },
+   {
+      "url": "https://www.webmotors.com.br/img/bestseller/chevrolet-s10.jpg?t=1.0.0",
+      "alt": "Imagem de fundo Chevroleto S10",
+      "label": "CHEVROLET S10",
+      "link": "https://www.webmotors.com.br/carros/estoque/chevrolet/s10?estadocidade=estoque&marca1=CHEVROLET&modelo1=S10&idcmpint=t1:c17:m07:carros-mais-buscados:posicao-7::CHEVROLET-S10"
+   },
+   {
+      "url": "https://www.webmotors.com.br/img/bestseller/fiat-palio.jpg?t=1.0.0",
+      "alt": "Imagem de fundo Fiat Palio",
+      "label": "FIAT PALIO",
+      "link": "https://www.webmotors.com.br/carros/estoque/fiat/palio?estadocidade=estoque&marca1=FIAT&modelo1=PALIO&idcmpint=t1:c17:m07:carros-mais-buscados:posicao-8::FIAT-PALIO"
+   },
+   {
+      "url": "https://www.webmotors.com.br/img/bestseller/hyundai-hb20.jpg?t=1.0.0",
+      "alt": "Imagem de fundo Hyundai HB20",
+      "label": "HYUNDAI HB20",
+      "link": "https://www.webmotors.com.br/carros/estoque/hyundai/hb20?estadocidade=estoque&marca1=HYUNDAI&modelo1=HB20&idcmpint=t1:c17:m07:carros-mais-buscados:posicao-9::HYUNDAI-HB20"
+   },
+   {
+      "url": "https://www.webmotors.com.br/img/bestseller/ford-ecosport.jpg?t=1.0.0",
+      "alt": "Imagem de fundo Ford EcoSport",
+      "label": "FORD ECOSPORT",
+      "link": "https://www.webmotors.com.br/carros/estoque/ford/ecosport?estadocidade=estoque&marca1=FORD&modelo1=ECOSPORT&idcmpint=t1:c17:m07:carros-mais-buscados:posicao-10::FORD-ECOSPORT"
+   }
+]

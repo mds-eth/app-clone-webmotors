@@ -1,0 +1,86 @@
+[
+   {
+      "url": "images/background-fiat.jpeg",
+      "alt": "Imagem de fundo com Logo da Montadora Fiat",
+      "label": "Fiat",
+      "link": "https://webmotors.com.br/ofertas/feiroes/megafeirao/carros/estoque?tipoveiculo=carros&marca1=FIAT&lkid=1470"
+   },
+   {
+      "url": "images/background-volks.jpeg",
+      "alt": "Imagem de fundo com Logo da Montadora Volkswagen",
+      "label": "Volkswagen",
+      "link": "https://www.webmotors.com.br/ofertas/feiroes/megafeirao/carros/estoque?tipoveiculo=carros&marca1=VOLKSWAGEN&lkid=1471"
+   },
+   {
+      "url": "images/background-chevrolet.jpeg",
+      "alt": "Imagem de fundo com Logo da Montadora Chevrolet",
+      "label": "Fiat",
+      "link": "https://www.webmotors.com.br/ofertas/feiroes/megafeirao/carros/estoque?tipoveiculo=carros&marca1=CHEVROLET&lkid=1472"
+   },
+   {
+      "url": "images/background-honda.jpeg",
+      "alt": "Imagem de fundo com Logo da Montadora Honda",
+      "label": "Honda",
+      "link": "https://www.webmotors.com.br/ofertas/feiroes/megafeirao/carros/estoque?tipoveiculo=carros&marca1=HONDA&lkid=1473"
+   },
+   {
+      "url": "images/background-luxo.jpeg",
+      "alt": "Imagem de fundo com banco de couro",
+      "label": "Carros de luxo",
+      "link": "https://www.webmotors.com.br/carros-de-luxo/carros/estoque?estadocidade=estoque&necessidade=Carros%20de%20luxo&idcmpint=t1:c17:m07:webmotors:busque-por-categorias::carros-de-luxo:comprar"
+   },
+   {
+      "url": "images/background-family.jpeg",
+      "alt": "Imagem de fundo com crianças sorrindo dentro de veículo",
+      "label": "Carros para família",
+      "link": "https://www.webmotors.com.br/carros-para-familia/carros/estoque?estadocidade=estoque&necessidade=Carros%20para%20fam%C3%ADlia&idcmpint=t1:c17:m07:webmotors:busque-por-categorias::carros-para-familia:comprar"
+   },
+   {
+      "url": "images/background-diesel.jpeg",
+      "alt": "Imagem de fundo com homem abastecendo veículo",
+      "label": "Carros a diesel",
+      "link": "https://www.webmotors.com.br/carros-a-diesel/carros/estoque?estadocidade=estoque&necessidade=Carros%20a%20diesel&idcmpint=t1:c17:m07:webmotors:busque-por-categorias::carros-a-diesel:comprar"
+   },
+   {
+      "url": "images/background-economico.jpeg",
+      "alt": "Imagem de fundo com homem abastecendo veículo",
+      "label": "Carros economicos",
+      "link": "https://www.webmotors.com.br/carros-economicos/carros/estoque?estadocidade=estoque&necessidade=Carros%20econ%C3%B4micos&idcmpint=t1:c17:m07:webmotors:busque-por-categorias::carros-economicos:comprar"
+   },
+   {
+      "url": "images/background-antigos.jpeg",
+      "alt": "Imagem de fundo com um veículo antigo",
+      "label": "Carros antigos",
+      "link": "https://www.webmotors.com.br/carros-antigos/carros/estoque?estadocidade=estoque&necessidade=Carros%20antigos&idcmpint=t1:c17:m07:webmotors:busque-por-categorias::carros-antigos:comprar"
+   },
+   {
+      "url": "images/background-conversiveis.jpeg",
+      "alt": "Imagem de fundo com mulher dirigindo veículo conversível, e no banco de trás seu cachorro",
+      "label": "Conversíveis",
+      "link": "https://www.webmotors.com.br/conversiveis/carros/estoque?estadocidade=estoque&necessidade=Convers%C3%ADveis&idcmpint=t1:c17:m07:webmotors:busque-por-categorias::conversiveis:comprar"
+   },
+   {
+      "url": "images/background-hatches.jpeg",
+      "alt": "Imagem de fundo com um veículo hatch na cor azul",
+      "label": "Hatches",
+      "link": "https://www.webmotors.com.br/hatches/carros/estoque?estadocidade=estoque&necessidade=Hatches&idcmpint=t1:c17:m07:webmotors:busque-por-categorias::hatches:comprar"
+   },
+   {
+      "url": "images/background-pickups.jpeg",
+      "alt": "Imagem de fundo com uma pickup Mitsubishi L200",
+      "label": "Picapes",
+      "link": "https://www.webmotors.com.br/picapes/carros/estoque?estadocidade=estoque&necessidade=Picapes&idcmpint=t1:c17:m07:webmotors:busque-por-categorias::picapes:comprar"
+   },
+   {
+      "url": "images/background-big-car.jpeg",
+      "alt": "Imagem de fundo com um veículo com porta malas aberto na praia",
+      "label": "Carros grandes",
+      "link": "https://www.webmotors.com.br/carros-grandes/carros/estoque?estadocidade=estoque&necessidade=Carros%20grandes&idcmpint=t1:c17:m07:webmotors:busque-por-categorias::carros-grandes:comprar"
+   },
+   {
+      "url": "images/background-suvs.jpeg",
+      "alt": "Imagem de fundo com uma suv azul",
+      "label": "SUVs",
+      "link": "https://www.webmotors.com.br/suvs/carros/estoque?estadocidade=estoque&necessidade=SUVs&idcmpint=t1:c17:m07:webmotors:busque-por-categorias::suvs:comprar"
+   }
+]

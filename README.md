@@ -1,3 +1,3 @@
 # Clone UI WebMotors
 
-[<img alt="Imagem Clone UI"  src="./public/images/clone-webmotors.png" />]
+<img alt="Imagem Clone UI"  src="./public/images/clone-webmotors.png" />
